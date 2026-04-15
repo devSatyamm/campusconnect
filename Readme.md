@@ -38,7 +38,7 @@
 
 Sound familiar?
 
-Inside every university, things are constantly happening — hackathons, study groups, football matches, music jams, startup idea sessions. But the information to find them is buried in:
+Inside every university, things are constantly happening  hackathons, study groups, football matches, music jams, startup idea sessions. But the information to find them is buried in:
 
 | Channel | Problem |
 |---|---|
@@ -245,13 +245,13 @@ git commit -m "feat: describe what you added"
 git push origin feature/your-idea
 ```
 
-All contributions welcome — design feedback, code, or just ideas.
+All contributions welcome : design feedback, code, or just ideas.
 
 ---
 
 ## 📜 License
  
-MIT — use it, remix it, build on it.
+MIT : use it, remix it, build on it.
  
 ---
  
@@ -261,7 +261,7 @@ MIT — use it, remix it, build on it.
 **Built by a student. For students.**
 
  
-*Piloting at Manipal University Jaipur — expanding everywhere.*
+*Piloting at Manipal University Jaipur then expanding everywhere.*
 
  
 <br/>
