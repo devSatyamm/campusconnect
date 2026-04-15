@@ -283,4 +283,17 @@ MIT : use it, remix it, build on it.
 
  
 </div>
+
+
+<div align="center">
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-devSatyamm-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f0f)](https://github.com/devSatyamm)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Satyam%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f0f)](https://www.linkedin.com/in/satyamofficial/)
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@developersatyam-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0f0f)](https://instagram.com/developersatyam)
+
+</div>
  
