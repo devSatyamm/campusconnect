@@ -24,8 +24,6 @@
 </a>
 </p>
 
-<br><br>
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=CampusConnect&fontSize=70&fontColor=ffffff"/>
 </p>
