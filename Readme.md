@@ -1,32 +1,48 @@
 <div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=CampusConnect;Every+Opportunity+On+Campus+One+Place;Built+By+Students+For+Students"/>
 
-```
-   ██████╗ █████╗███╗   ███╗██████╗ ██╗   ██╗███████╗
-  ██╔════╝██╔══██╗████╗ ████║██╔══██╗██║   ██║██╔════╝
-  ██║     ███████║██╔████╔██║██████╔╝██║   ██║███████╗
-  ██║     ██╔══██║██║╚██╔╝██║██╔═══╝ ██║   ██║╚════██║
-  ╚██████╗██║  ██║██║ ╚═╝ ██║██║     ╚██████╔╝███████║
-   ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝      ╚═════╝ ╚══════╝
-        ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗
-        ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
-     ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║
-     ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║
-     ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║
-      ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝
-```
+<br><br>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/satyamofficial">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/devSatyamm">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/satyam_mishra">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+       height="50"
+       style="margin:0 8px;">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/developersatyam">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+</p>
+
+<br><br>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=CampusConnect&fontSize=70&fontColor=ffffff"/>
+</p>
 
 ### *Every opportunity on campus. One place.*
 
-<br/>
+<p align="center">
 
-![Status](https://img.shields.io/badge/Status-Active%20Development-22c55e?style=for-the-badge&labelColor=0f0f0f)
-![Built With](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-f59e0b?style=for-the-badge&labelColor=0f0f0f)
-![University](https://img.shields.io/badge/Pilot-MUJ%20Jaipur-6366f1?style=for-the-badge&labelColor=0f0f0f)
-![License](https://img.shields.io/badge/License-MIT-ec4899?style=for-the-badge&labelColor=0f0f0f)
+<img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pilot-MUJ_Jaipur-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/License-MIT-pink?style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -255,6 +271,8 @@ MIT : use it, remix it, build on it.
  
 ---
  
+---
+
 <div align="center">
 <br/>
   
@@ -297,3 +315,6 @@ MIT : use it, remix it, build on it.
 
 </div>
  
+                                 *Starting at Manipal University Jaipur. Designed to scale everywhere.*
+
+</div>
